@@ -1,0 +1,17 @@
+.app {
+  background-image: url('./assets/dark-background.png');
+}
+
+.control-element-top {
+  position: absolute;
+  right: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.description-wrapper {
+  text-align: center;
+}
+

@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Vollkorn-Regular';
+  src: local('Vollkorn-VariableFont_Regular'), 
+    url('./Vollkorn-VariableFont_wght.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonserratAlternates-Regular';
+  src: local('MonserratAlternates-Regular'),
+      url('./MonserratAlternates-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonserratAlternates-Medium';
+  src: local('MonserratAlternates-Medium'),
+    url('./MonserratAlternates-Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
